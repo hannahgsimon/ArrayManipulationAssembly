@@ -18,7 +18,7 @@ The program demonstrates structured data manipulation and file I/O in x86 assemb
 ## 🧰 Dependencies
 - This project uses the **Irvine32** library for input/output and file handling in x86 assembly.
 - To build and run the program, ensure Irvine32 is installed and configured for **32-bit MASM projects in Visual Studio**, following the official setup instructions:
-- https://asmirvine.com  
+https://asmirvine.com  
 → *Getting Started with MASM and Visual Studio 2022*  
 → *Required Setup for 32-bit Applications*  
   
